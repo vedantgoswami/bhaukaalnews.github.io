@@ -23,11 +23,12 @@ img:hover{opacity:0.75}
 .container {
   margin: 20px 40px;
   color: black;
+ 
 }
 
 .heading {
   font-size: 60px;
-  color: black;
+  color: ;
   font-family: Quantico;
   text-align: center;
   font-weight: bolder;
