@@ -20,16 +20,26 @@ img{border:none}
 img:hover{opacity:0.75}
 @import url('https://fonts.googleapis.com/css2?family=Quantico:wght@700&display=swap');
 
+<<<<<<< HEAD
 /*
+=======
+>>>>>>> Team page updated
 .container {
   margin: 20px 40px;
   color: black;
 }
+<<<<<<< HEAD
 */
 
 .heading {
   font-size: 60px;
   color: ;
+=======
+
+.heading {
+  font-size: 60px;
+  color: black;
+>>>>>>> Team page updated
   font-family: Quantico;
   text-align: center;
   font-weight: bolder;
