@@ -1,9 +1,15 @@
 @font-face{font-family:"Oswald"; font-style:normal; font-weight:400; src:local("Oswald Regular"),local("Oswald-Regular"),url("../fonts/Oswald-Regular-400.woff") format("woff")}
 @font-face{font-family:"Varela"; font-style:normal; font-weight:400; src:local("Varela"),url("../fonts/Varela-400.woff") format("woff")}
 <<<<<<< HEAD
+<<<<<<< HEAD
 @font-face{font-family:"Open Sans"; font-style:normal; font-weight:400; src:local("Open Sans"),local("OpenSans"),url("../fonts/OpenSans-400.woff") format("woff")}
 =======
 @font-face{font-family:"Open Sans"; font-style:normal; font-weight:400; src:local("Open Sans"),local("OpenSans"),url("../fonts/OpenSans-400.woff") format("woff")}
 
 
 >>>>>>> Team page updated
+=======
+@font-face{font-family:"Open Sans"; font-style:normal; font-weight:400; src:local("Open Sans"),local("OpenSans"),url("../fonts/OpenSans-400.woff") format("woff")}
+
+
+>>>>>>> 47d85fa916e7c83cc7dd83957329c233f6f98608
