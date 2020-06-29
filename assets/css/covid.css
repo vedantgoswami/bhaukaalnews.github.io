@@ -10,7 +10,11 @@
     height: 100vh;
     color: black;
   }
+<<<<<<< HEAD
    .com{
+=======
+.com{
+>>>>>>> fce00f37e9f45814bf3994bcca76f7b75be7a237
     font-size: 25px;
     font-family: calibra;
     text-align: center;
@@ -158,7 +162,11 @@ tr:hover{
  	font-family: Quantico;
  }
  @media(max-width: 992px){
+<<<<<<< HEAD
   .com{
+=======
+	 .com{
+>>>>>>> fce00f37e9f45814bf3994bcca76f7b75be7a237
     font-size: 20px;
   }
  	#end{
@@ -197,7 +205,11 @@ tr:hover{
 
  }
   @media(max-width: 768px){
+<<<<<<< HEAD
     .com{
+=======
+	  .com{
+>>>>>>> fce00f37e9f45814bf3994bcca76f7b75be7a237
       font-size: 14px;
     }
  	.heading {
@@ -233,6 +245,11 @@ tr:hover{
  	#end{
  		font-size: 20px;
  	}
+	  @media(max-width: 550px){
+  .com{
+    font-size: 9px;
+  }
+ }
  	
  }
   @media(max-width: 550px){

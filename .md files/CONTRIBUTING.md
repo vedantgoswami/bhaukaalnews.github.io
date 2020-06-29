@@ -8,18 +8,18 @@ We want to make contributing to this project as easy and transparent as possible
 * Proposing new features
 
 ## How to contribute ☘️:
-*  Fork [this](https://github.com/smaranjitghose/bhaukaalnews.github.io.git) repository.
+*  Fork [this](https://github.com/deepdarshan21/bhaukaalnews.github.io.git) repository.
 *  Clone the forked repository.
     ```
-    git clone https://github.com/<your_user_name>/bhaukaalnews.github.io.git
+    git clone https://github.com/<your_user_name>/bhaukaalnews.git
     ```
 * Navigate to the project directory.
     ```
-    cd bhaukaalnews.github.io
+    cd bhaukaalnews
     ```
 * Add a reference to the original repository.
     ```
-    git remote add upstream https://github.com/bhaukaalnews/bhaukaalnews.github.io.git
+    git remote add upstream https://github.com/deepdarshan21/bhaukaalnews.git
     ```
 * See changes using
     ```
@@ -49,10 +49,18 @@ We want to make contributing to this project as easy and transparent as possible
 
 ### Incase you face any problems feel free to ask it on [instagram page](https://www.instagram.com/bhaukaalnews)
 
+# for syncing your repo .
+
+<a href="../.md files/sync.md"><h2 align= "center"><b> SYNC </b></h2></a> 
+<p align= "center"><img width=20% src="../images/sync2.png"></p>
+<br>
+
+***
+
 
 
 Feel free to ask your queries!! 🙌
 
 ## Keep Contributing !!  👋 
 <br>
-<p align="center"><img src="images/logo1.png"></p>
+<p align="center"><img src="../images/logo1.png"></p>
